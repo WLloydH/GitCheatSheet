@@ -1,0 +1,14 @@
+Downloads from github
+
+cit clone https://github.com/wlh-orginazation/FeeEstimator.git
+
+
+Git delete all
+>git rm -r *
+
+commit local 
+git commit -m "Remove Source"
+
+
+Uploads to github
+git push origin main
